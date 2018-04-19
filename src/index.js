@@ -1,7 +1,10 @@
 // Code Goes Here
+<<<<<<< HEAD
 import React from 'react';
 import PropTypes from 'prop-types';
 
+=======
+>>>>>>> 3a2592047a81cf0e0c2904acc6e5e20edd45f13e
 class Order extends React.Component {
 
   render() {
@@ -17,6 +20,7 @@ class Order extends React.Component {
     );
   }
 }
+<<<<<<< HEAD
 
 Order.propTypes = {
   cone: PropTypes.bool,
@@ -32,3 +36,5 @@ Order.defaultProps = {
   cone: true,
   size: 'regular'
 };
+=======
+>>>>>>> 3a2592047a81cf0e0c2904acc6e5e20edd45f13e
